@@ -1,0 +1,24 @@
+{
+    "name": "com.ptc.vuforia.engine",
+    "version": "9.8.8",
+    "displayName": "Vuforia Engine AR",
+    "description": "Vuforia Engine is the most widely used platform for AR development, with support for leading phones, tablets, and eyewear. Developers can easily add advanced computer vision functionality to Android, iOS, and UWP apps, to create AR experiences that realistically interact with objects and the environment.",
+    "unity": "2019.2",
+    "keywords": [
+        "vuforia",
+        "engine",
+        "ar",
+        "xr",
+        "augmented",
+        "reality",
+        "sdk"
+    ],
+    "license": "See LICENSE.md file",
+    "author": {
+        "name": "PTC Inc.",
+        "url": "https://developer.vuforia.com/"
+    },
+    "dependencies": {
+        "com.unity.ugui": "1.0.0"
+    }
+}

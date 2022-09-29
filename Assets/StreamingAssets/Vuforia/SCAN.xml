@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="JogloTarget" size="100.000000 141.274658" />
+    <ImageTarget name="BatikSulawesi" size="100.000000 140.178574" />
+    <ImageTarget name="KolintangSulawesi" size="100.000000 148.119583" />
+    <ImageTarget name="GesoGesoSulawesi" size="100.000000 141.981125" />
+    <ImageTarget name="EngrangBambuSumatra" size="100.000000 151.756882" />
+    <ImageTarget name="LompatBatuSumatra" size="100.000000 146.518372" />
+    <ImageTarget name="SaluangDarek" size="100.000000 148.472900" />
+    <ImageTarget name="BolonTarget" size="100.000000 141.512604" />
+    <ImageTarget name="WalewangkoTarget" size="100.000000 141.512604" />
+    <ImageTarget name="BatikPapua" size="100.000000 146.036591" />
+    <ImageTarget name="TifaPapua" size="100.000000 139.577332" />
+    <ImageTarget name="PaarKeePapua" size="100.000000 150.050156" />
+    <ImageTarget name="HonaiTarget" size="100.000000 141.512604" />
+    <ImageTarget name="SasiranganKalimantan" size="100.000000 140.693069" />
+    <ImageTarget name="GuciTajau" size="100.000000 149.331970" />
+    <ImageTarget name="PantingKalimantan" size="100.000000 143.681595" />
+    <ImageTarget name="BaanjungTarget" size="100.000000 141.512604" />
+    <ImageTarget name="BatikJawa" size="100.000000 144.989975" />
+    <ImageTarget name="AngklungJawa" size="100.000000 150.725952" />
+    <ImageTarget name="DemungJawa" size="100.000000 141.205048" />
+  </Tracking>
+</QCARConfig>

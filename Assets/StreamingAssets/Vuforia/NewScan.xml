@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sumatra4" size="100.000000 67.029800" />
+    <ImageTarget name="sumatra3" size="100.000000 66.623672" />
+    <ImageTarget name="sumatra2" size="100.000000 67.850227" />
+    <ImageTarget name="sumatra1" size="100.000000 66.273132" />
+    <ImageTarget name="sulawesi4" size="100.000000 67.236374" />
+    <ImageTarget name="sulawesi3" size="100.000000 66.677361" />
+    <ImageTarget name="sulawesi2" size="100.000000 66.623756" />
+    <ImageTarget name="sulawesi1" size="100.000000 66.773781" />
+    <ImageTarget name="papua4" size="100.000000 67.064133" />
+    <ImageTarget name="papua3" size="100.000000 65.696930" />
+    <ImageTarget name="papua2" size="100.000000 67.244698" />
+    <ImageTarget name="papua1" size="100.000000 67.493553" />
+    <ImageTarget name="kalimantan4" size="100.000000 66.784569" />
+    <ImageTarget name="kalimantan3" size="100.000000 67.085754" />
+    <ImageTarget name="kalimantan2" size="100.000000 66.666664" />
+    <ImageTarget name="kalimantan1" size="100.000000 66.892548" />
+    <ImageTarget name="jawa4" size="100.000000 66.806183" />
+    <ImageTarget name="jawa3" size="100.000000 66.655983" />
+    <ImageTarget name="jawa2" size="100.000000 67.622421" />
+    <ImageTarget name="jawa1" size="100.000000 67.567566" />
+  </Tracking>
+</QCARConfig>
